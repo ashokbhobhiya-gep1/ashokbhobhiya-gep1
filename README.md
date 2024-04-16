@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashok Bhobhiya
-- 👀 I’m interested in Web Dev, ML, DL, Data Structure and Algos
+- 👀 I’m interested in ML, DL, DS, Algos, and Web Dev
 - 🌱 I’m currently learning Advance Algos
 - 💞️ I’m looking to collaborate on any tech.
 - 📫 Reach me with ashok.bhobhiya@gep.com
